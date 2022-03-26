@@ -256,7 +256,7 @@ export default {
         },
         customBackend: {
           "localhost:25500 本地版": "http://localhost:25500/sub?",
-          "a.helloboa.ml": "https://a.helloboa.ml?",
+          "boaboa.cf": "https://boaboa.cf?",
           "subcon.dlj.tf(subconverter作者提供-稳定)":
             "https://subcon.dlj.tf/sub?",
           "api.dler.io(sub作者&lhie1提供-稳定)": "https://api.dler.io/sub?",
@@ -265,7 +265,7 @@ export default {
         },
         backendOptions: [
           { value: "http://localhost:25500/sub?" },
-          { value: "https://a.helloboa.ml/sub?" },
+          { value: "https://boaboa.cf/sub?" },
           { value: "https://subcon.dlj.tf/sub?" },
           { value: "https://api.dler.io/sub?" },
           { value: "https://api.wcc.best/sub?" },
